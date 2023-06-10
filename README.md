@@ -62,3 +62,8 @@ developer tools to ensure that the
 MovieList component is not loaded
 immediately but rather on-demand.
 
+Note that you'll need to replace the
+API endpoint (https://api.example.com/movies)
+with your own movie data source.
+
+
